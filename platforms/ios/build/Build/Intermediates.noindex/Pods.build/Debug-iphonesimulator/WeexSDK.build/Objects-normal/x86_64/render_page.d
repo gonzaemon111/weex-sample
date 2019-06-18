@@ -1,0 +1,47 @@
+dependencies: \
+  /Users/goki_sakuraba/Product/weex/awesome-project/platforms/ios/Pods/WeexSDK/weex_core/Source/core/render/page/render_page.cpp \
+  /Users/goki_sakuraba/Product/weex/awesome-project/platforms/ios/Pods/Target\ Support\ Files/WeexSDK/WeexSDK-prefix.pch \
+  /Users/goki_sakuraba/Product/weex/awesome-project/platforms/ios/Pods/WeexSDK/weex_core/Source/base/log_defines.h \
+  /Users/goki_sakuraba/Product/weex/awesome-project/platforms/ios/Pods/WeexSDK/weex_core/Source/base/time_utils.h \
+  /Users/goki_sakuraba/Product/weex/awesome-project/platforms/ios/Pods/WeexSDK/weex_core/Source/core/common/view_utils.h \
+  /Users/goki_sakuraba/Product/weex/awesome-project/platforms/ios/Pods/WeexSDK/weex_core/Source/core/config/core_environment.h \
+  /Users/goki_sakuraba/Product/weex/awesome-project/platforms/ios/Pods/WeexSDK/weex_core/Source/core/css/constants_value.h \
+  /Users/goki_sakuraba/Product/weex/awesome-project/platforms/ios/Pods/WeexSDK/weex_core/Source/core/layout/layout.h \
+  /Users/goki_sakuraba/Product/weex/awesome-project/platforms/ios/Pods/WeexSDK/weex_core/Source/core/layout/style.h \
+  /Users/goki_sakuraba/Product/weex/awesome-project/platforms/ios/Pods/WeexSDK/weex_core/Source/core/layout/flex_enum.h \
+  /Users/goki_sakuraba/Product/weex/awesome-project/platforms/ios/Pods/WeexSDK/weex_core/Source/core/manager/weex_core_manager.h \
+  /Users/goki_sakuraba/Product/weex/awesome-project/platforms/ios/Pods/WeexSDK/weex_core/Source/base/thread/thread.h \
+  /Users/goki_sakuraba/Product/weex/awesome-project/platforms/ios/Pods/WeexSDK/weex_core/Source/base/thread/thread_impl_darwin.h \
+  /Users/goki_sakuraba/Product/weex/awesome-project/platforms/ios/Pods/WeexSDK/weex_core/Source/base/thread/thread_impl_posix.h \
+  /Users/goki_sakuraba/Product/weex/awesome-project/platforms/ios/Pods/WeexSDK/weex_core/Source/base/thread/thread_impl.h \
+  /Users/goki_sakuraba/Product/weex/awesome-project/platforms/ios/Pods/WeexSDK/weex_core/Source/base/common.h \
+  /Users/goki_sakuraba/Product/weex/awesome-project/platforms/ios/Pods/WeexSDK/weex_core/Source/base/message_loop/message_loop.h \
+  /Users/goki_sakuraba/Product/weex/awesome-project/platforms/ios/Pods/WeexSDK/weex_core/Source/base/closure.h \
+  /Users/goki_sakuraba/Product/weex/awesome-project/platforms/ios/Pods/WeexSDK/weex_core/Source/base/message_loop/message_pump.h \
+  /Users/goki_sakuraba/Product/weex/awesome-project/platforms/ios/Pods/WeexSDK/weex_core/Source/base/time_unit.h \
+  /Users/goki_sakuraba/Product/weex/awesome-project/platforms/ios/Pods/WeexSDK/weex_core/Source/base/time_point.h \
+  /Users/goki_sakuraba/Product/weex/awesome-project/platforms/ios/Pods/WeexSDK/weex_core/Source/core/bridge/platform_bridge.h \
+  /Users/goki_sakuraba/Product/weex/awesome-project/platforms/ios/Pods/WeexSDK/weex_core/Source/include/WeexApiHeader.h \
+  /Users/goki_sakuraba/Product/weex/awesome-project/platforms/ios/Pods/WeexSDK/weex_core/Source/include/WeexApiValue.h \
+  /Users/goki_sakuraba/Product/weex/awesome-project/platforms/ios/Pods/WeexSDK/weex_core/Source/core/bridge/script_bridge.h \
+  /Users/goki_sakuraba/Product/weex/awesome-project/platforms/ios/Pods/WeexSDK/weex_core/Source/core/moniter/render_performance.h \
+  /Users/goki_sakuraba/Product/weex/awesome-project/platforms/ios/Pods/WeexSDK/weex_core/Source/core/render/page/render_page.h \
+  /Users/goki_sakuraba/Product/weex/awesome-project/platforms/ios/Pods/WeexSDK/weex_core/Source/core/render/action/render_action_add_element.h \
+  /Users/goki_sakuraba/Product/weex/awesome-project/platforms/ios/Pods/WeexSDK/weex_core/Source/core/render/action/render_action_interface.h \
+  /Users/goki_sakuraba/Product/weex/awesome-project/platforms/ios/Pods/WeexSDK/weex_core/Source/core/render/action/render_action_add_event.h \
+  /Users/goki_sakuraba/Product/weex/awesome-project/platforms/ios/Pods/WeexSDK/weex_core/Source/core/render/action/render_action_appendtree_createfinish.h \
+  /Users/goki_sakuraba/Product/weex/awesome-project/platforms/ios/Pods/WeexSDK/weex_core/Source/core/render/action/render_action_createbody.h \
+  /Users/goki_sakuraba/Product/weex/awesome-project/platforms/ios/Pods/WeexSDK/weex_core/Source/core/render/action/render_action_createfinish.h \
+  /Users/goki_sakuraba/Product/weex/awesome-project/platforms/ios/Pods/WeexSDK/weex_core/Source/core/render/action/render_action_layout.h \
+  /Users/goki_sakuraba/Product/weex/awesome-project/platforms/ios/Pods/WeexSDK/weex_core/Source/core/render/action/render_action_move_element.h \
+  /Users/goki_sakuraba/Product/weex/awesome-project/platforms/ios/Pods/WeexSDK/weex_core/Source/core/render/action/render_action_remove_element.h \
+  /Users/goki_sakuraba/Product/weex/awesome-project/platforms/ios/Pods/WeexSDK/weex_core/Source/core/render/action/render_action_remove_event.h \
+  /Users/goki_sakuraba/Product/weex/awesome-project/platforms/ios/Pods/WeexSDK/weex_core/Source/core/render/action/render_action_render_success.h \
+  /Users/goki_sakuraba/Product/weex/awesome-project/platforms/ios/Pods/WeexSDK/weex_core/Source/core/render/action/render_action_update_attr.h \
+  /Users/goki_sakuraba/Product/weex/awesome-project/platforms/ios/Pods/WeexSDK/weex_core/Source/core/render/action/render_action_update_style.h \
+  /Users/goki_sakuraba/Product/weex/awesome-project/platforms/ios/Pods/WeexSDK/weex_core/Source/core/render/action/render_action_trigger_vsync.h \
+  /Users/goki_sakuraba/Product/weex/awesome-project/platforms/ios/Pods/WeexSDK/weex_core/Source/core/render/manager/render_manager.h \
+  /Users/goki_sakuraba/Product/weex/awesome-project/platforms/ios/Pods/WeexSDK/weex_core/Source/core/render/node/render_object.h \
+  /Users/goki_sakuraba/Product/weex/awesome-project/platforms/ios/Pods/WeexSDK/weex_core/Source/core/render/node/factory/render_object_interface.h \
+  /Users/goki_sakuraba/Product/weex/awesome-project/platforms/ios/Pods/WeexSDK/weex_core/Source/core/render/node/factory/render_type.h \
+  /Users/goki_sakuraba/Product/weex/awesome-project/platforms/ios/Pods/WeexSDK/weex_core/Source/core/render/node/render_list.h
